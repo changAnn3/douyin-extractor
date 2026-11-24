@@ -98,7 +98,7 @@ cp .env.example .env
 
 ## 获取抖音 Cookies
 
-抖音接口有风控，部分视频需要浏览器 cookie（登录态或设备指纹）。推荐使用浏览器扩展导出的 `cookies.txt`（Netscape 格式）：
+抖音接口有风控，部分视频需要浏览器 cookie（登录态或设备指纹）。推荐使用谷歌浏览器扩展Get cookies.txt LOCALLY导出的 `cookies.txt`（Netscape 格式）：
 
 1. 在 Chrome / Edge 安装扩展 **Get cookies.txt LOCALLY**。
 2. 登录抖音并打开任意视频页面。
