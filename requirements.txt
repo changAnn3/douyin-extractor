@@ -1,0 +1,10 @@
+# 抖音视频/图文文案提取工具依赖
+# 建议 Python 3.9+（开发环境为 Windows 11 + Python 3.9.6）
+
+yt-dlp==2025.10.14
+gradio==4.44.1
+rapidocr-onnxruntime==1.4.4
+opencv-python
+numpy
+requests
+Pillow

@@ -1,0 +1,28 @@
+# 环境与密钥（不要提交）
+.env
+.env.local
+.env.*.local
+
+# 抖音 cookies（含登录凭据，严禁提交）
+cookies.txt
+cookies*.txt
+*_cookies.txt
+
+# 运行产物
+output/
+tmp/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Gradio / 编辑器 / 系统
+.gradio/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
